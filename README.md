@@ -2,6 +2,9 @@
 
 A simple full-stack prototype that displays a **student speaking assessment report**, inspired by platforms like SpeechAce / IELTS score reports.
 
+![App Screenshot](https://drive.google.com/uc?export=view&id=1sks9ry9uZf_C4EWnLZjvJ9GO18225vjd)
+
+
 The project focuses on:
 - Clean and readable UI
 - Logical score calculation
